@@ -1,0 +1,79 @@
+html{
+    max-width: 100%
+    
+}
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    
+}
+/*.crousel{*/
+    height: 500px;
+    margin-bottom: 50px;
+    
+}
+.carousel-inner .item{
+    position: absolute;
+    height: 900px;
+    min-width: 90%;
+    top: 0;
+    left: 0;
+    
+}
+.carousel .item{
+    height: 550px;
+    background: white;
+    opacity: .9;    
+}
+.caroulsel-caption{
+    
+}
+.btn{
+    margin: 0 auto;
+}
+.navbar-wrapper .navbar .conatiner{
+    width: auto;
+}
+.img-circle{
+    margin: 10px;
+}
+.container-team .col-lg-4{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+.container-team h5{
+    padding-left:80px;
+    padding-right: 80px;
+}
+.ctxt{
+    text-align: center;
+    padding-top: 100px;
+    
+    
+}
+.cimg{
+    padding-top: 40px;
+    border-radius: 6px;
+    padding-left: 0px;
+    padding-right: 50px;
+}
+.ctxt p{
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.cimg2{
+    padding-left: 50px;
+}
+.content{
+    margin-bottom: 30px;
+}
+.up{
+    padding: 0 30px 0 30px
+}

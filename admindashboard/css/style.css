@@ -1,0 +1,49 @@
+.navbar-brand{
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.container-fluid2 li{
+
+    list-style: none;
+    font-size: 18px;
+    padding-bottom: 40px
+}
+/*
+.top{
+        margin: 0 0 100px 0px;
+    }
+*/
+.sidebar{
+    margin-top: 30px;
+    border-right: 1px solid black;
+    height: 900px;
+;}
+.topsidebar a{
+    text-decoration: none;
+}
+.bottomsidebar a{
+    text-decoration: none;
+}
+.graph{
+    height: 200px
+}
+.topsidebar{
+    padding-top: 10px;
+    padding-bottom: 50px
+}
+.footer {
+  text-align: center;
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+.navbar{
+    border-radius: 0px;
+}
+

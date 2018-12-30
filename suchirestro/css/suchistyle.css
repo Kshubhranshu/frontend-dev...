@@ -1,0 +1,48 @@
+body{
+    height: 100%;
+    
+}
+video{
+    position: fixed;
+    top:50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    z-index: 1;
+}
+div{
+    position: relative;
+    z-index: 2;
+    color: white;
+    margin: 0 auto;
+    width:80%;
+    margin-top: 6%;
+    text-align: center;
+    font-size: 30px;
+    
+}
+p{
+    opacity:.7;
+    border-style: dashed;
+    border-radius: 8px;
+}
+h1{
+    opacity: .9;
+        font-family: 'Pacifico', cursive;
+
+}
+
+a{
+    color: #FF0074;
+    display: inline-block;
+    border: 4px solid #FF0074;
+    padding: 6px 6px 6px 6px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 70%
+    font-family: 'Monofett', cursive;
+
+
+    
+}
+

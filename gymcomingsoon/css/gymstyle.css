@@ -1,0 +1,36 @@
+body{
+	background-color:red;
+	background: url("../images/bgGymOp.png")
+	no-repeat center center fixed;
+	background-sze:cover;
+    font-family: 'Alegreya Sans SC', sans-serif;
+
+    	}
+h1{
+    color: black;
+    text-align: center;
+    margin:100px atuo ;
+    font-size: 3em;
+}
+div{
+    background-color: #dd4814;
+    width: 60%;
+    text-align: center;
+    margin: 5% auto;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+button{
+    background: #EBEBEB;
+    border-radius: 5px;
+    width: 25%;
+    height: 30;
+    text-align: center;
+    
+}
+p{
+    font-size: 2em;
+}
+i{
+    font-size: 2em;
+}
