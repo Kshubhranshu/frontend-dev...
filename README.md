@@ -1,2 +1,3 @@
 # frontend-dev...
-projects and templates using HTML and CSS
+projects and templates using HTML, CSS and Javascript
+
